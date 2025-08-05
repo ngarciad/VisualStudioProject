@@ -1,5 +1,11 @@
 let a= 20
 let b= 30
 let res= a + b
+
+// fsdfafdasfs
+
 console.log(res)
-console.log("Hola")
+saldo= "saldo " + res
+console.log("ahora tengo un " + saldo)
+Math.floor
+
